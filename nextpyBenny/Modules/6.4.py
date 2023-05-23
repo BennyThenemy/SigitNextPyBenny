@@ -50,7 +50,7 @@ def main():
 
     # you can write only these two lines for seeing the cow:
     draw.polygon(first, fill='white')
-    draw.polygon(first, fill='white')
+    draw.polygon(second, fill='white')
 
     # adding image-stroke:
     for i in range(0, len(first) - 3, 2):
